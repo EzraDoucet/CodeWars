@@ -31,3 +31,4 @@ end
 
 puts getLengthOfMissingArray([[1, 2], [4, 5, 1, 1], [1], [5, 6, 7, 8, 9]])
 # puts getLengthOfMissingArray([ ]), 0
+# Can't get null case to work
